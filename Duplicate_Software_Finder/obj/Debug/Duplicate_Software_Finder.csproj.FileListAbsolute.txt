@@ -1,0 +1,10 @@
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\bin\Debug\Duplicate_Software_Finder.exe.config
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\bin\Debug\Duplicate_Software_Finder.exe
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\bin\Debug\Duplicate_Software_Finder.pdb
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\obj\Debug\Duplicate_Software_Finder.csprojAssemblyReference.cache
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\obj\Debug\Duplicate_Software_Finder.Form1.resources
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\obj\Debug\Duplicate_Software_Finder.Properties.Resources.resources
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\obj\Debug\Duplicate_Software_Finder.csproj.GenerateResource.cache
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\obj\Debug\Duplicate_Software_Finder.csproj.CoreCompileInputs.cache
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\obj\Debug\Duplicate_Software_Finder.exe
+C:\Users\constantin.pricope\source\repos\Duplicate_Software_Finder\Duplicate_Software_Finder\obj\Debug\Duplicate_Software_Finder.pdb
